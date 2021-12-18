@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+p {
+    width: 715px;
+    margin: auto;
+    font-size: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    width: 1000px;
+    margin: auto;
+}
+
+.buttons {
+    width: 177px;
+    margin: 0 auto;
+}
+
+.buttons button {
+    border-radius: 5px;
+    outline: none;
+    
+}
+
+.btn{
+	box-shadow: none !important
+}
